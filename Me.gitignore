@@ -1,0 +1,8 @@
+# 1. API Keys aur Passwords ki file
+.env
+
+# 2. Python ki temporary files
+_pycache_/
+
+# 3. Virtual Environment folder
+.venv/
